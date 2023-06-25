@@ -1,4 +1,4 @@
-namespace ExploringGroversSearchAlgorithm {
+namespace GraphColoringProblem {
     
     open Microsoft.Quantum.Arrays;
     open Microsoft.Quantum.Canon;
